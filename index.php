@@ -9,12 +9,10 @@
 <body>
 	<div class="indice_letras"></div>
 	<div class="contenedor_principal">
-		<div id="flecha_izquierda"></div>
 			<div class="contenedor_becarios">
 				<div class="galeria_becarios"></div>
 			</div>
 	</div>
-	
 	<!--<div class="paginacion"></div> -->
 	<script type="text/javascript" src="js/becarios.js"></script>
 </body>

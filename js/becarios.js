@@ -88,8 +88,6 @@ function validar_mostrar_mas() {
 	// verifica si debe mostrarse aun la flecha derecha
 	// Eliminar la flecha anterior a la solicitud
 	$('#flecha_derecha').remove();
-	 console.log(indice_becario);
-	 console.log(cantidad_becarios_letra);
 	if(indice_becario < cantidad_becarios_letra)
 	{
 		$('.galeria_becarios').append('<div id="flecha_derecha"></div>');
